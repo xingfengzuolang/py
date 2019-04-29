@@ -3,4 +3,4 @@
 
 import os
 
-os.system('useradd var = test1 -p 123')
+os.system("useradd test1 -p 123")
